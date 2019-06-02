@@ -4,3 +4,4 @@ Line #3
 Line #4
 Line #5 - newfeature branch
 Line #6 - newfeature branch
+Line #7 - localbranch
